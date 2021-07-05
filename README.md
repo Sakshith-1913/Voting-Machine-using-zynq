@@ -1,4 +1,4 @@
-# Voting-Machin-using-zynq
+# Voting-Machine-using-zynq
 Designed a Simple Voting Machine using FPGAs with Verilog HDL and Vivado
 
 works in two modes (i) Voting mode:- user can cast their vote only 
